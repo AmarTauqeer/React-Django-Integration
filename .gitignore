@@ -2,6 +2,7 @@
 
 # dependencies
 frontend/frontendapp/node_modules
+frontend_old/frontendapp/node_modules
 frontend/frontendapp/.vscode
 venv
 .idea
