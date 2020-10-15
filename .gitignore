@@ -2,7 +2,9 @@
 
 # dependencies
 frontend/frontendapp/node_modules
+frontend/frontendapp/.vscode
 venv
+.idea
 /.pnp
 .pnp.js
 .vscode
